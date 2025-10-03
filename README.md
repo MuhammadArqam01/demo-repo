@@ -1,4 +1,4 @@
 # demo-repo
 This is my second git repository.
 <br/>
-Author : M.Arqam
+Author : Muhammad Arqam
